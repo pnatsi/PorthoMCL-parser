@@ -1,4 +1,4 @@
-# PorthoMCL_parser
+# PorthoMCL_parser.py
 
 This is a script to parse .tsv files with groups of ortholog genes as rows.                                                                    
 It is most convenient to parse the 8.all.ort.group file that is the output file of orthologs from a PorthoMCL run.                             
@@ -39,5 +39,6 @@ taxon4
 ```
 
    
- 
+
+## CREDITS
 Created by Paschalis Natsidis (pnatsidis@hotmail.com) as part of his Master thesis in HCMR, Heraklion. 
