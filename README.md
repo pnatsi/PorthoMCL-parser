@@ -37,8 +37,3 @@ taxon3
 taxon4
 ...
 ```
-
-   
-
-## CREDITS
-Created by Paschalis Natsidis (pnatsidis@hotmail.com) as part of his Master thesis in HCMR, Heraklion. 
